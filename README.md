@@ -41,7 +41,7 @@
 
 1. **克隆项目代码**：
    [代码示例]
-   ¤¤¤bash
+   '''bash
    git clone https://github.com/你的用户名/雨欣音乐播放器.git
    cd 雨欣音乐播放器
    '''
@@ -52,7 +52,7 @@
 3. **运行项目**：
    - 如果使用 PHP 内置服务器，可以在项目根目录运行以下命令：
      [代码示例]
-     ''' bash
+     '''bash
      php -S localhost:8000
      '''
      然后在浏览器中访问 `http://localhost:8000`。
